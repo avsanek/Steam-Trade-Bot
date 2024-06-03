@@ -1,0 +1,1 @@
+{"total_count": 12842, "assets": {"Spring Lineage Blazing Oblivion": [65.75], "Symbol of the King Restored": [89.75]}, "make_money": 2343.9700000000025}

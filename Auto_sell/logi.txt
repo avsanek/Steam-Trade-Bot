@@ -1,0 +1,594 @@
+[69.15, 5, '5 sell orders at 69,15 pσα. or lower'], [72.57, 6, '6 sell orders at 72,57 pσα. or lower'], [73.6, 9, '9 sell orders at 73,60 pσα. or lower'], item_name: Galil AR | Akoben 
+counts: 1, second_count 1, second_price 72.57, second_price_without_taxe 63.1, price_item 59.91, second_profit 3.19 < 0.5 elif count_current_prices == 1: elif second_count == 1: if profit >= 0.5 second
+[94, 1, '1 sell orders at 94 pσα. or lower'], [94.3, 2, '2 sell orders at 94,30 pσα. or lower'], [95.35, 3, '3 sell orders at 95,35 pσα. or lower'] item_name: Mask of the Confidant 
+counts: 1, second_count 1, third_price 95.35, third_price_without_taxe 82.91, price_item 78.8, profit 2.94 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[73.6, 3, '3 sell orders at 73,60 pσα. or lower'], item_name: Wrap of the Shifting Sorcerer 
+counts: 3, price 73.6, price_without_taxe 64.0, price_item 60.0, profit 4.0 > 0.5 if count_current_prices >= 3: first
+[70, 5, '5 sell orders at 70 pσα. or lower'], item_name: Belt of the Jade General 
+counts: 5, price 70, price_without_taxe 60.87, price_item 58.0, profit 2.87 > 0.5 if count_current_prices >= 3: first
+[57.44, 1, '1 sell orders at 57,44 pσα. or lower'], [58, 2, '2 sell orders at 58 pσα. or lower'], [58.24, 5, '5 sell orders at 58,24 pσα. or lower'] item_name: Eye of the Lost Star 
+counts: 1, second_count 1, third_price 58.24, third_price_without_taxe 50.64, price_item 49.08, profit 0.87 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[143.61, 1, '1 sell orders at 143,61 pσα. or lower'], [146.85, 3, '3 sell orders at 146,85 pσα. or lower'], item_name: Candy Cat 
+counts: 1, second_count 2, second_price 146.85, second_price_without_taxe 127.7, price_item 122.17, second_profit 5.53 > 0.5 elif count_current_prices == 1: if second_count >= 2: if profit * 1.8 second
+[251.11, 1, '1 sell orders at 251,11 pσα. or lower'], [251.27, 2, '2 sell orders at 251,27 pσα. or lower'], [251.65, 3, '3 sell orders at 251,65 pσα. or lower'] item_name: Blackshield Protodrone 
+counts: 1, second_count 1, third_price 251.65, third_price_without_taxe 218.83, price_item 214.61, profit 3.75 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[153.89, 1, '1 sell orders at 153,89 pσα. or lower'], [158.51, 2, '2 sell orders at 158,51 pσα. or lower'], [159.57, 5, '5 sell orders at 159,57 pσα. or lower'] item_name: Galil AR | Chromatic Aberration 
+counts: 1, second_count 1, second_price 158.51, second_price_without_taxe 137.83, price_item 130.7, second_profit 7.13 > 0.5 elif count_current_prices == 1: elif second_count == 1: if profit * 1.8 second
+[78.79, 1, '1 sell orders at 78,79 pσα. or lower'], [79.23, 2, '2 sell orders at 79,23 pσα. or lower'], [79.51, 3, '3 sell orders at 79,51 pσα. or lower'] item_name: Wrath of Ka Cursor Pack 
+counts: 1, second_count 1, third_price 79.51, third_price_without_taxe 69.14, price_item 65.73, profit 2.78 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[161.71, 1, '1 sell orders at 161,71 pσα. or lower'], [161.98, 2, '2 sell orders at 161,98 pσα. or lower'], [162, 3, '3 sell orders at 162 pσα. or lower'] item_name: Sufferwood Sapling 
+counts: 1, second_count 1, third_price 162, third_price_without_taxe 140.87, price_item 136.73, profit 3.89 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[165.95, 2, '2 sell orders at 165,95 pσα. or lower'], [165.96, 3, '3 sell orders at 165,96 pσα. or lower'], item_name: Tormented Staff 
+second_price_without_taxe 144.31, price_item 128.19, profit 16.11 > 0.5 elif count_current_prices == 2: else first
+[160.44, 3, '3 sell orders at 160,44 pσα. or lower'], [160.77, 4, '4 sell orders at 160,77 pσα. or lower'], [161.48, 6, '6 sell orders at 161,48 pσα. or lower'] item_name: Music Kit | Austin Wintory, Bachram 
+counts: 1, second_count 1, third_price 161.48, third_price_without_taxe 140.42, price_item 134.23, profit 5.28 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[148.06, 5, '5 sell orders at 148,06 pσα. or lower'], item_name: Taunt:  Chain Break Dance 
+counts: 5, price 148.06, price_without_taxe 128.75, price_item 125.53, profit 3.22 > 0.5 if count_current_prices >= 3: first
+[251.09, 1, '1 sell orders at 251,09 pσα. or lower'], [253.19, 5, '5 sell orders at 253,19 pσα. or lower'], item_name: Blackshield Protodrone 
+counts: 1, second_count 4, second_price 253.19, second_price_without_taxe 220.17, price_item 215.06, profit 3.28 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[76.14, 1, '1 sell orders at 76,14 pσα. or lower'], [76.6, 4, '4 sell orders at 76,60 pσα. or lower'], item_name: Call of the Bladeform Legacy 
+counts: 1, second_count 3, second_price 76.6, second_price_without_taxe 66.61, price_item 64.32, profit 1.89 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[104.01, 1, '1 sell orders at 104,01 pσα. or lower'], [106, 2, '2 sell orders at 106 pσα. or lower'], [106.39, 53, '53 sell orders at 106,39 pσα. or lower'] item_name: Blackshield Protodrone Armor 
+counts: 1, second_count 1, third_price 106.39, third_price_without_taxe 92.51, price_item 86.71, profit 3.73 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[247.44, 1, '1 sell orders at 247,44 pσα. or lower'], [250.97, 2, '2 sell orders at 250,97 pσα. or lower'], [251.07, 3, '3 sell orders at 251,07 pσα. or lower'], item_name: Blackshield Protodrone 
+counts: 1, second_count 1, second_price 250.97, second_price_without_taxe 218.23, price_item 215.06, second_profit 3.17 < 0.5 elif count_current_prices == 1: elif second_count == 1: if profit >= 0.5 second
+[90.71, 1, '1 sell orders at 90,71 pσα. or lower'], [91, 3, '3 sell orders at 91 pσα. or lower'], item_name: Taunt: For Death and Honor 
+counts: 1, second_count 2, second_price 91, second_price_without_taxe 79.13, price_item 74.75, profit 4.13 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[76.6, 3, '3 sell orders at 76,60 pσα. or lower'], item_name: Slumbering Terror 
+counts: 3, price 76.6, price_without_taxe 66.61, price_item 65.52, profit 1.09 > 0.5 if count_current_prices >= 3: first
+[123.41, 1, '1 sell orders at 123,41 pσα. or lower'], [124.02, 2, '2 sell orders at 124,02 pσα. or lower'], [125.52, 3, '3 sell orders at 125,52 pσα. or lower'] item_name: StatTrak™ G3SG1 | Dream Glade 
+counts: 1, second_count 1, third_price 125.52, third_price_without_taxe 109.15, price_item 101.35, profit 5.96 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[75.73, 4, '4 sell orders at 75,73 pσα. or lower'], [75.79, 5, '5 sell orders at 75,79 pσα. or lower'], item_name: Profane Union 
+second_price_without_taxe 65.9, price_item 64.49, profit 1.36 > 0.5 elif count_current_prices == 2: else first
+[194.04, 2, '2 sell orders at 194,04 pσα. or lower'], [195.5, 3, '3 sell orders at 195,50 pσα. or lower'], [195.63, 4, '4 sell orders at 195,63 pσα. or lower'] item_name: Basher of Mage Skulls 
+counts: 1, second_count 1, third_price 195.63, third_price_without_taxe 170.11, price_item 160.0, profit 8.73 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[241.5, 2, '2 sell orders at 241,50 pσα. or lower'], [242.3, 3, '3 sell orders at 242,30 pσα. or lower'], item_name: Moonfall 
+second_price_without_taxe 210.7, price_item 204.9, profit 5.1 > 0.5 elif count_current_prices == 2: else first
+[114, 2, '2 sell orders at 114 pσα. or lower'], [114.08, 3, '3 sell orders at 114,08 pσα. or lower'], item_name: CZ75-Auto | Vendetta 
+second_price_without_taxe 99.2, price_item 72.85, profit 26.28 > 0.5 elif count_current_prices == 2: else first
+[94.3, 1, '1 sell orders at 94,30 pσα. or lower'], [95.35, 2, '2 sell orders at 95,35 pσα. or lower'], [95.68, 19, '19 sell orders at 95,68 pσα. or lower'] item_name: Mask of the Confidant 
+counts: 1, second_count 1, third_price 95.68, third_price_without_taxe 83.2, price_item 80.0, profit 2.0 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[256.37, 1, '1 sell orders at 256,37 pσα. or lower'], [256.85, 2, '2 sell orders at 256,85 pσα. or lower'], [257.02, 3, '3 sell orders at 257,02 pσα. or lower'] item_name: Bindings of the Spiteful Djinn 
+counts: 1, second_count 1, third_price 257.02, third_price_without_taxe 223.5, price_item 219.15, profit 3.78 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[89.97, 1, '1 sell orders at 89,97 pσα. or lower'], [90, 3, '3 sell orders at 90 pσα. or lower'], item_name: Scourge of the Skyrangers Armor 
+counts: 1, second_count 2, second_price 90, second_price_without_taxe 78.26, price_item 75.99, profit 2.24 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[94.3, 1, '1 sell orders at 94,30 pσα. or lower'], [94.68, 2, '2 sell orders at 94,68 pσα. or lower'], [95.35, 3, '3 sell orders at 95,35 pσα. or lower'] item_name: Mask of the Confidant 
+counts: 1, second_count 1, third_price 95.35, third_price_without_taxe 82.91, price_item 80.35, profit 1.65 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[216.36, 1, '1 sell orders at 216,36 pσα. or lower'], [217.73, 2, '2 sell orders at 217,73 pσα. or lower'], [218.18, 3, '3 sell orders at 218,18 pσα. or lower'] item_name: Genuine Hell's Usher 
+counts: 1, second_count 1, third_price 218.18, third_price_without_taxe 189.72, price_item 185.49, profit 2.65 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[58.24, 3, '3 sell orders at 58,24 pσα. or lower'], item_name: Eye of the Lost Star 
+counts: 3, price 58.24, price_without_taxe 50.64, price_item 49.19, profit 1.45 > 0.5 if count_current_prices >= 3: first
+[99.99, 1, '1 sell orders at 99,99 pσα. or lower'], [100, 2, '2 sell orders at 100 pσα. or lower'], [102.59, 3, '3 sell orders at 102,59 pσα. or lower'] item_name: CZ75-Auto | Vendetta 
+counts: 1, second_count 1, third_price 102.59, third_price_without_taxe 89.21, price_item 76.84, profit 10.11 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[68.9, 1, '1 sell orders at 68,90 pσα. or lower'], [68.96, 2, '2 sell orders at 68,96 pσα. or lower'], [68.97, 4, '4 sell orders at 68,97 pσα. or lower'] item_name: Belt of the Jade General 
+counts: 1, second_count 1, third_price 68.97, third_price_without_taxe 59.97, price_item 58.37, profit 1.54 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[56.26, 2, '2 sell orders at 56,26 pσα. or lower'], [56.38, 3, '3 sell orders at 56,38 pσα. or lower'], item_name: Heavy Tenderizer 
+second_price_without_taxe 49.03, price_item 46.5, profit 2.42 > 0.5 elif count_current_prices == 2: else first
+[68.88, 1, '1 sell orders at 68,88 pσα. or lower'], [68.9, 2, '2 sell orders at 68,90 pσα. or lower'], [68.97, 4, '4 sell orders at 68,97 pσα. or lower'] item_name: Belt of the Jade General 
+counts: 1, second_count 1, third_price 68.97, third_price_without_taxe 59.97, price_item 58.36, profit 1.54 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[101.25, 1, '1 sell orders at 101,25 pσα. or lower'], [102.05, 2, '2 sell orders at 102,05 pσα. or lower'], [102.74, 3, '3 sell orders at 102,74 pσα. or lower'] item_name: Genuine Fluttering Staff 
+counts: 1, second_count 1, second_price 102.05, second_price_without_taxe 88.74, price_item 87.34, second_profit 1.4 > 0.5 elif count_current_prices == 1: elif second_count == 1: if profit * 1.8 second
+[145.84, 6, '6 sell orders at 145,84 pσα. or lower'], item_name: Candy Cat 
+counts: 5, price 145.84, price_without_taxe 126.82, price_item 122.94, profit 3.88 > 0.5 if count_current_prices >= 3: first
+[106, 1, '1 sell orders at 106 pσα. or lower'], [106.28, 3, '3 sell orders at 106,28 pσα. or lower'], item_name: Stoneclaw Scavengers Radiant Towers 
+counts: 1, second_count 2, second_price 106.28, second_price_without_taxe 92.42, price_item 90.85, profit 1.32 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[58, 3, '3 sell orders at 58 pσα. or lower'], [58.88, 4, '4 sell orders at 58,88 pσα. or lower'], [59.71, 8, '8 sell orders at 59,71 pσα. or lower'] item_name: Glock-18 | Moonrise 
+counts: 1, second_count 1, third_price 59.71, third_price_without_taxe 51.92, price_item 49.0, profit 1.43 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[218.18, 1, '1 sell orders at 218,18 pσα. or lower'], [219, 2, '2 sell orders at 219 pσα. or lower'], [220.47, 3, '3 sell orders at 220,47 pσα. or lower'] item_name: Genuine Hell's Usher 
+counts: 1, second_count 1, third_price 220.47, third_price_without_taxe 191.71, price_item 185.3, profit 4.42 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[80.63, 1, '1 sell orders at 80,63 pσα. or lower'], [81.67, 3, '3 sell orders at 81,67 pσα. or lower'], item_name: Profane Union 
+counts: 1, second_count 2, second_price 81.67, second_price_without_taxe 71.02, price_item 68.16, profit 1.95 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[66.6, 2, '2 sell orders at 66,60 pσα. or lower'], [66.7, 3, '3 sell orders at 66,70 pσα. or lower'], item_name: Armor of the Winged Sentinel 
+second_price_without_taxe 58.0, price_item 56.48, profit 1.43 > 0.5 elif count_current_prices == 2: else first
+[106.27, 3, '3 sell orders at 106,27 pσα. or lower'], [106.37, 4, '4 sell orders at 106,37 pσα. or lower'], [106.39, 24, '24 sell orders at 106,39 pσα. or lower'] item_name: Stoneclaw Scavengers Radiant Towers 
+counts: 1, second_count 1, third_price 106.39, third_price_without_taxe 92.51, price_item 90.65, profit 1.76 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[156.18, 3, '3 sell orders at 156,18 pσα. or lower'], [158.51, 4, '4 sell orders at 158,51 pσα. or lower'], [159.57, 7, '7 sell orders at 159,57 pσα. or lower'] item_name: Galil AR | Chromatic Aberration 
+counts: 1, second_count 1, third_price 159.57, third_price_without_taxe 138.76, price_item 130.07, profit 5.74 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[75, 1, '1 sell orders at 75 pσα. or lower'], [76.05, 4, '4 sell orders at 76,05 pσα. or lower'], item_name: Broiler's Cleaver 
+counts: 1, second_count 3, second_price 76.05, second_price_without_taxe 66.13, price_item 61.87, profit 3.35 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[230, 2, '2 sell orders at 230 pσα. or lower'], [230.98, 3, '3 sell orders at 230,98 pσα. or lower'], item_name: Almond the Frondillo 
+second_price_without_taxe 200.85, price_item 196.53, profit 3.47 > 0.5 elif count_current_prices == 2: else first
+[211.08, 1, '1 sell orders at 211,08 pσα. or lower'], [211.8, 2, '2 sell orders at 211,80 pσα. or lower'], [212.78, 5, '5 sell orders at 212,78 pσα. or lower'] item_name: Iron Surge 
+counts: 1, second_count 1, third_price 212.78, third_price_without_taxe 185.03, price_item 177.0, profit 6.55 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[253.19, 2, '2 sell orders at 253,19 pσα. or lower'], [253.7, 5, '5 sell orders at 253,70 pσα. or lower'], item_name: Blackshield Protodrone 
+second_price_without_taxe 220.61, price_item 215.06, profit 5.11 > 0.5 elif count_current_prices == 2: else first
+[145.78, 3, '3 sell orders at 145,78 pσα. or lower'], item_name: Candy Cat 
+counts: 3, price 145.78, price_without_taxe 126.77, price_item 123.3, profit 3.47 > 0.5 if count_current_prices >= 3: first
+[211.8, 1, '1 sell orders at 211,80 pσα. or lower'], [213.53, 2, '2 sell orders at 213,53 pσα. or lower'], [214.77, 3, '3 sell orders at 214,77 pσα. or lower'] item_name: Iron Surge 
+counts: 1, second_count 1, third_price 214.77, third_price_without_taxe 186.76, price_item 176.83, profit 7.34 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[159.62, 1, '1 sell orders at 159,62 pσα. or lower'], [160.63, 2, '2 sell orders at 160,63 pσα. or lower'], [160.65, 16, '16 sell orders at 160,65 pσα. or lower'] item_name: Mandate of the Stormborn 
+counts: 1, second_count 1, third_price 160.65, third_price_without_taxe 139.7, price_item 137.42, profit 1.38 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[75, 1, '1 sell orders at 75 pσα. or lower'], [75.75, 2, '2 sell orders at 75,75 pσα. or lower'], [78.16, 3, '3 sell orders at 78,16 pσα. or lower'] item_name: Armor of Eternal Night 
+counts: 1, second_count 1, third_price 78.16, third_price_without_taxe 67.97, price_item 61.9, profit 3.32 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[99.44, 2, '2 sell orders at 99,44 pσα. or lower'], [99.99, 3, '3 sell orders at 99,99 pσα. or lower'], [100, 4, '4 sell orders at 100 pσα. or lower'] item_name: Blackshield Protodrone Missile Launcher 
+counts: 1, second_count 1, third_price 100, third_price_without_taxe 86.96, price_item 85.0, profit 1.47 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[156.72, 1, '1 sell orders at 156,72 pσα. or lower'], [159.57, 2, '2 sell orders at 159,57 pσα. or lower'], [160, 3, '3 sell orders at 160 pσα. or lower'] item_name: Inscribed Tormented Staff 
+counts: 1, second_count 1, third_price 160, third_price_without_taxe 139.13, price_item 130.35, profit 5.93 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[75.9, 1, '1 sell orders at 75,90 pσα. or lower'], [76.96, 2, '2 sell orders at 76,96 pσα. or lower'], [80.5, 4, '4 sell orders at 80,50 pσα. or lower'] item_name: Helm of the Dark Moon Stalker 
+counts: 1, second_count 1, third_price 80.5, third_price_without_taxe 70.0, price_item 59.75, profit 6.25 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[80, 2, '2 sell orders at 80 pσα. or lower'], [80.05, 9, '9 sell orders at 80,05 pσα. or lower'], item_name: Wrath of Ka Cursor Pack 
+second_price_without_taxe 69.61, price_item 65.34, profit 4.23 > 0.5 elif count_current_prices == 2: else first
+[80.85, 2, '2 sell orders at 80,85 pσα. or lower'], [81.65, 3, '3 sell orders at 81,65 pσα. or lower'], [81.67, 4, '4 sell orders at 81,67 pσα. or lower'] item_name: Profane Union 
+counts: 1, second_count 1, third_price 81.67, third_price_without_taxe 71.02, price_item 69.0, profit 1.3 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[102.13, 1, '1 sell orders at 102,13 pσα. or lower'], [102.52, 6, '6 sell orders at 102,52 pσα. or lower'], item_name: Souvenir SSG 08 | Carbon Fiber 
+counts: 1, second_count 5, second_price 102.52, second_price_without_taxe 89.15, price_item 86.63, profit 2.18 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[216.77, 1, '1 sell orders at 216,77 pσα. or lower'], [217.7, 2, '2 sell orders at 217,70 pσα. or lower'], [218.22, 15, '15 sell orders at 218,22 pσα. or lower'] item_name: Iron Surge 
+counts: 1, second_count 1, third_price 218.22, third_price_without_taxe 189.76, price_item 180.94, profit 7.56 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[55.32, 29, '29 sell orders at 55,32 pσα. or lower'], item_name: Edge of the Lost Order 
+counts: 29, price 55.32, price_without_taxe 48.1, price_item 47.33, profit 0.77 > 0.5 if count_current_prices >= 3: first
+[139.35, 4, '4 sell orders at 139,35 pσα. or lower'], item_name: USP-S | Black Lotus 
+counts: 4, price 139.35, price_without_taxe 121.17, price_item 116.58, profit 4.59 > 0.5 if count_current_prices >= 3: first
+[73.41, 2, '2 sell orders at 73,41 pσα. or lower'], [73.6, 7, '7 sell orders at 73,60 pσα. or lower'], item_name: StatTrak™ Desert Eagle | Bronze Deco 
+counts: 1, second_count 5, second_price 73.6, second_price_without_taxe 64.0, price_item 60.0, profit 3.83 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[210, 1, '1 sell orders at 210 pσα. or lower'], [210.15, 2, '2 sell orders at 210,15 pσα. or lower'], [213.97, 3, '3 sell orders at 213,97 pσα. or lower'] item_name: Iron Surge 
+counts: 1, second_count 1, third_price 213.97, third_price_without_taxe 186.06, price_item 180.85, profit 1.76 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[139.32, 1, '1 sell orders at 139,32 pσα. or lower'], [139.35, 4, '4 sell orders at 139,35 pσα. or lower'], item_name: USP-S | Black Lotus 
+counts: 1, second_count 3, second_price 139.35, second_price_without_taxe 121.17, price_item 116.75, profit 4.4 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[169.12, 3, '3 sell orders at 169,12 pσα. or lower'], item_name: Tormented Staff 
+counts: 3, price 169.12, price_without_taxe 147.06, price_item 141.82, profit 5.24 > 0.5 if count_current_prices >= 3: first
+[153.67, 1, '1 sell orders at 153,67 pσα. or lower'], [154, 2, '2 sell orders at 154 pσα. or lower'], [154.96, 3, '3 sell orders at 154,96 pσα. or lower'] item_name: AUG | Stymphalian 
+counts: 1, second_count 1, third_price 154.96, third_price_without_taxe 134.75, price_item 125.23, profit 8.4 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[80.38, 1, '1 sell orders at 80,38 pσα. or lower'], [80.52, 2, '2 sell orders at 80,52 pσα. or lower'], [80.9, 3, '3 sell orders at 80,90 pσα. or lower'] item_name: Profane Union 
+counts: 1, second_count 1, third_price 80.9, third_price_without_taxe 70.35, price_item 68.38, profit 1.52 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[106.08, 19, '19 sell orders at 106,08 pσα. or lower'], item_name: Taunt: Keep an Ear Out 
+counts: 18, price 106.08, price_without_taxe 92.24, price_item 89.83, profit 2.41 > 0.5 if count_current_prices >= 3: first
+[137.23, 1, '1 sell orders at 137,23 pσα. or lower'], [139.32, 2, '2 sell orders at 139,32 pσα. or lower'], [139.35, 4, '4 sell orders at 139,35 pσα. or lower'] item_name: USP-S | Black Lotus 
+counts: 1, second_count 1, second_price 139.32, second_price_without_taxe 121.15, price_item 117.15, second_profit 4.0 > 0.5 elif count_current_prices == 1: elif second_count == 1: if profit * 1.8 second
+[169, 3, '3 sell orders at 169 pσα. or lower'], item_name: Trust of the Benefactor 2022 
+counts: 3, price 169, price_without_taxe 146.96, price_item 142.4, profit 4.56 > 0.5 if count_current_prices >= 3: first
+[180.33, 1, '1 sell orders at 180,33 pσα. or lower'], [181.1, 2, '2 sell orders at 181,10 pσα. or lower'], [183.71, 3, '3 sell orders at 183,71 pσα. or lower'] item_name: Tormented Staff 
+counts: 1, second_count 1, third_price 183.71, third_price_without_taxe 159.75, price_item 140.0, profit 16.81 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[186, 1, '1 sell orders at 186 pσα. or lower'], [188.31, 12, '12 sell orders at 188,31 pσα. or lower'], item_name: Dreadmist Dragoon - Mount 
+counts: 1, second_count 11, second_price 188.31, second_price_without_taxe 163.75, price_item 157.45, profit 4.29 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[139.31, 4, '4 sell orders at 139,31 pσα. or lower'], [139.32, 5, '5 sell orders at 139,32 pσα. or lower'], [139.68, 6, '6 sell orders at 139,68 pσα. or lower'] item_name: USP-S | Black Lotus 
+counts: 1, second_count 1, third_price 139.68, third_price_without_taxe 121.46, price_item 117.15, profit 3.99 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[65.78, 25, '25 sell orders at 65,78 pσα. or lower'], item_name: Gambits of Nishai Helm 
+counts: 25, price 65.78, price_without_taxe 57.2, price_item 55.27, profit 1.93 > 0.5 if count_current_prices >= 3: first
+[88.28, 1, '1 sell orders at 88,28 pσα. or lower'], [88.29, 2, '2 sell orders at 88,29 pσα. or lower'], [88.32, 3, '3 sell orders at 88,32 pσα. or lower'] item_name: Announcer: The Stanley Parable 
+counts: 1, second_count 1, third_price 88.32, third_price_without_taxe 76.8, price_item 70.95, profit 5.82 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[137.8, 2, '2 sell orders at 137,80 pσα. or lower'], [139.35, 3, '3 sell orders at 139,35 pσα. or lower'], item_name: M4A1-S | Mud-Spec 
+second_price_without_taxe 121.17, price_item 115.27, profit 4.56 > 0.5 elif count_current_prices == 2: else first
+[67.97, 5, '5 sell orders at 67,97 pσα. or lower'], item_name: Blastforge Exhaler 
+counts: 3, price 67.97, price_without_taxe 59.1, price_item 57.53, profit 1.57 > 0.5 if count_current_prices >= 3: first
+[72.8, 2, '2 sell orders at 72,80 pσα. or lower'], [72.81, 4, '4 sell orders at 72,81 pσα. or lower'], item_name: Tempest Revelation 
+second_price_without_taxe 63.31, price_item 58.51, profit 4.79 > 0.5 elif count_current_prices == 2: else first
+[173.78, 1, '1 sell orders at 173,78 pσα. or lower'], [175, 2, '2 sell orders at 175 pσα. or lower'], [175.3, 3, '3 sell orders at 175,30 pσα. or lower'] item_name: Hunger of the Howling Wilds Off-Hand Weapon 
+counts: 1, second_count 1, third_price 175.3, third_price_without_taxe 152.43, price_item 149.56, profit 1.55 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[55.98, 3, '3 sell orders at 55,98 pσα. or lower'], [56.15, 4, '4 sell orders at 56,15 pσα. or lower'], item_name: Head of the Forlorn Maze 
+second_price_without_taxe 48.83, price_item 47.33, profit 1.35 > 0.5 elif count_current_prices == 2: else first
+[205.85, 6, '6 sell orders at 205,85 pσα. or lower'], item_name: StatTrak™ Desert Eagle | Trigger Discipline 
+counts: 3, price 205.85, price_without_taxe 179.0, price_item 170.22, profit 8.78 > 0.5 if count_current_prices >= 3: first
+[66.3, 2, '2 sell orders at 66,30 pσα. or lower'], [66.38, 3, '3 sell orders at 66,38 pσα. or lower'], item_name: Armor of the Winged Sentinel 
+second_price_without_taxe 57.72, price_item 56.48, profit 1.17 > 0.5 elif count_current_prices == 2: else first
+[73.32, 1, '1 sell orders at 73,32 pσα. or lower'], [73.41, 2, '2 sell orders at 73,41 pσα. or lower'], [74.17, 5, '5 sell orders at 74,17 pσα. or lower'] item_name: M4A1-S | Emphorosaur-S 
+counts: 1, second_count 1, third_price 74.17, third_price_without_taxe 64.5, price_item 62.85, profit 0.91 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[57.5, 4, '4 sell orders at 57,50 pσα. or lower'], item_name: Dendi Doll 
+counts: 4, price 57.5, price_without_taxe 50.0, price_item 48.0, profit 2.0 > 0.5 if count_current_prices >= 3: first
+[257.89, 3, '3 sell orders at 257,89 pσα. or lower'], item_name: Bindings of the Spiteful Djinn 
+counts: 3, price 257.89, price_without_taxe 224.25, price_item 220.0, profit 4.25 > 0.5 if count_current_prices >= 3: first
+[226.6, 1, '1 sell orders at 226,60 pσα. or lower'], [226.98, 2, '2 sell orders at 226,98 pσα. or lower'], [227.98, 3, '3 sell orders at 227,98 pσα. or lower'] item_name: Mask of the Forgotten Plane 
+counts: 1, second_count 1, third_price 227.98, third_price_without_taxe 198.24, price_item 192.0, profit 5.04 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[66.28, 1, '1 sell orders at 66,28 pσα. or lower'], [66.3, 3, '3 sell orders at 66,30 pσα. or lower'], item_name: Armor of the Winged Sentinel 
+counts: 1, second_count 2, second_price 66.3, second_price_without_taxe 57.65, price_item 56.46, profit 1.17 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[157.01, 1, '1 sell orders at 157,01 pσα. or lower'], [157.03, 9, '9 sell orders at 157,03 pσα. or lower'], item_name: The Lightning Orchid 
+counts: 1, second_count 8, second_price 157.03, second_price_without_taxe 136.55, price_item 131.99, profit 4.54 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[80.5, 3, '3 sell orders at 80,50 pσα. or lower'], [80.52, 8, '8 sell orders at 80,52 pσα. or lower'], item_name: Helm of the Dark Moon Stalker 
+counts: 1, second_count 5, second_price 80.52, second_price_without_taxe 70.02, price_item 65.05, profit 4.95 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[64.72, 19, '19 sell orders at 64,72 pσα. or lower'], item_name: Staff of the Rambling Fatebender 
+counts: 18, price 64.72, price_without_taxe 56.28, price_item 55.0, profit 1.28 > 0.5 if count_current_prices >= 3: first
+[68.04, 2, '2 sell orders at 68,04 pσα. or lower'], [68.09, 4, '4 sell orders at 68,09 pσα. or lower'], item_name: Blastforge Exhaler 
+second_price_without_taxe 59.21, price_item 57.52, profit 1.65 > 0.5 elif count_current_prices == 2: else first
+[139.68, 1, '1 sell orders at 139,68 pσα. or lower'], [141.3, 2, '2 sell orders at 141,30 pσα. or lower'], [141.99, 3, '3 sell orders at 141,99 pσα. or lower'] item_name: USP-S | Black Lotus 
+counts: 1, second_count 1, third_price 141.99, third_price_without_taxe 123.47, price_item 116.11, profit 5.35 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[257.89, 1, '1 sell orders at 257,89 pσα. or lower'], [258.37, 10, '10 sell orders at 258,37 pσα. or lower'], item_name: Bindings of the Spiteful Djinn 
+counts: 1, second_count 9, second_price 258.37, second_price_without_taxe 224.67, price_item 220.23, profit 4.02 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[135.1, 1, '1 sell orders at 135,10 pσα. or lower'], [136.65, 5, '5 sell orders at 136,65 pσα. or lower'], item_name: M4A1-S | Mud-Spec 
+counts: 1, second_count 4, second_price 136.65, second_price_without_taxe 118.83, price_item 115.98, second_profit 2.85 > 0.5 elif count_current_prices == 1: if second_count >= 2: if profit * 1.8 second
+[195, 1, '1 sell orders at 195 pσα. or lower'], [195.04, 3, '3 sell orders at 195,04 pσα. or lower'], item_name: Taunt: Bathed in the Glow 
+counts: 1, second_count 2, second_price 195.04, second_price_without_taxe 169.6, price_item 168.53, profit 1.04 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[57.4, 6, '6 sell orders at 57,40 pσα. or lower'], item_name: Dendi Doll 
+counts: 6, price 57.4, price_without_taxe 49.91, price_item 47.98, profit 1.93 > 0.5 if count_current_prices >= 3: first
+[88.28, 2, '2 sell orders at 88,28 pσα. or lower'], [88.29, 3, '3 sell orders at 88,29 pσα. or lower'], [88.32, 4, '4 sell orders at 88,32 pσα. or lower'] item_name: Announcer: The Stanley Parable 
+counts: 1, second_count 1, third_price 88.32, third_price_without_taxe 76.8, price_item 72.12, profit 4.65 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[103.19, 1, '1 sell orders at 103,19 pσα. or lower'], [106.29, 2, '2 sell orders at 106,29 pσα. or lower'], [106.38, 3, '3 sell orders at 106,38 pσα. or lower'] item_name: Blackshield Protodrone Armor 
+counts: 1, second_count 1, second_price 106.29, second_price_without_taxe 92.43, price_item 88.98, second_profit 3.45 > 0.5 elif count_current_prices == 1: elif second_count == 1: if profit * 1.8 second
+[99.63, 1, '1 sell orders at 99,63 pσα. or lower'], [99.65, 2, '2 sell orders at 99,65 pσα. or lower'], [99.77, 3, '3 sell orders at 99,77 pσα. or lower'] item_name: StatTrak™ Galil AR | Rocket Pop 
+counts: 1, second_count 1, third_price 99.77, third_price_without_taxe 86.76, price_item 84.38, profit 2.25 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[167.53, 1, '1 sell orders at 167,53 pσα. or lower'], [169.43, 2, '2 sell orders at 169,43 pσα. or lower'], [169.91, 3, '3 sell orders at 169,91 pσα. or lower'] item_name: Lucentyr 
+counts: 1, second_count 1, second_price 169.43, second_price_without_taxe 147.33, price_item 144.98, second_profit 2.35 > 0.5 elif count_current_prices == 1: elif second_count == 1: if profit * 1.8 second
+[223, 1, '1 sell orders at 223 pσα. or lower'], [224.86, 2, '2 sell orders at 224,86 pσα. or lower'], [225, 3, '3 sell orders at 225 pσα. or lower'] item_name: Mask of the Forgotten Plane 
+counts: 1, second_count 1, third_price 225, third_price_without_taxe 195.65, price_item 190.8, profit 3.11 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[119.79, 5, '5 sell orders at 119,79 pσα. or lower'], item_name: Taunt: Timeless Classic 
+counts: 5, price 119.79, price_without_taxe 104.17, price_item 101.29, profit 2.88 > 0.5 if count_current_prices >= 3: first
+[274.67, 2, '2 sell orders at 274,67 pσα. or lower'], [275.25, 4, '4 sell orders at 275,25 pσα. or lower'], item_name: Music Kit | bbno$, u mad! 
+second_price_without_taxe 239.35, price_item 233.01, profit 5.83 > 0.5 elif count_current_prices == 2: else first
+[105.82, 2, '2 sell orders at 105,82 pσα. or lower'], [105.83, 4, '4 sell orders at 105,83 pσα. or lower'], item_name: Symbol of the King Restored 
+counts: 1, second_count 2, second_price 105.83, second_price_without_taxe 92.03, price_item 88.27, profit 3.75 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[79.77, 3, '3 sell orders at 79,77 pσα. or lower'], item_name: Wrath of Ka Cursor Pack 
+counts: 3, price 79.77, price_without_taxe 69.37, price_item 67.59, profit 1.78 > 0.5 if count_current_prices >= 3: first
+[65, 1, '1 sell orders at 65 pσα. or lower'], [66.67, 4, '4 sell orders at 66,67 pσα. or lower'], item_name: Souvenir P2000 | Grassland 
+counts: 1, second_count 3, second_price 66.67, second_price_without_taxe 57.97, price_item 54.83, second_profit 3.14 > 0.5 elif count_current_prices == 1: if second_count >= 2: if profit * 1.8 second
+[62.7, 2, '2 sell orders at 62,70 pσα. or lower'], [62.81, 3, '3 sell orders at 62,81 pσα. or lower'], [62.84, 4, '4 sell orders at 62,84 pσα. or lower'] item_name: Cunning Cultivations 
+counts: 1, second_count 1, third_price 62.84, third_price_without_taxe 54.64, price_item 53.28, profit 1.24 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[127.65, 1, '1 sell orders at 127,65 pσα. or lower'], [127.67, 2, '2 sell orders at 127,67 pσα. or lower'], [128.16, 3, '3 sell orders at 128,16 pσα. or lower'] item_name: Edge of the Flowering Shade 
+counts: 1, second_count 1, third_price 128.16, third_price_without_taxe 111.44, price_item 109.73, profit 1.27 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[176, 1, '1 sell orders at 176 pσα. or lower'], [176.94, 2, '2 sell orders at 176,94 pσα. or lower'], [177.22, 3, '3 sell orders at 177,22 pσα. or lower'] item_name: Hunger of the Howling Wilds Off-Hand Weapon 
+counts: 1, second_count 1, third_price 177.22, third_price_without_taxe 154.1, price_item 150.0, profit 3.04 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[64.93, 3, '3 sell orders at 64,93 pσα. or lower'], item_name: Vestments of the Blackguard Magus 
+counts: 3, price 64.93, price_without_taxe 56.46, price_item 55.34, profit 1.12 > 0.5 if count_current_prices >= 3: first
+[66.64, 1, '1 sell orders at 66,64 pσα. or lower'], [66.67, 4, '4 sell orders at 66,67 pσα. or lower'], item_name: Souvenir P2000 | Grassland 
+counts: 1, second_count 3, second_price 66.67, second_price_without_taxe 57.97, price_item 54.45, profit 3.5 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[215.97, 9, '9 sell orders at 215,97 pσα. or lower'], item_name: Iron Surge 
+counts: 9, price 215.97, price_without_taxe 187.8, price_item 183.4, profit 4.4 > 0.5 if count_current_prices >= 3: first
+[119.79, 5, '5 sell orders at 119,79 pσα. or lower'], item_name: Taunt: Timeless Classic 
+counts: 5, price 119.79, price_without_taxe 104.17, price_item 101.35, profit 2.82 > 0.5 if count_current_prices >= 3: first
+[255.13, 1, '1 sell orders at 255,13 pσα. or lower'], [258.37, 9, '9 sell orders at 258,37 pσα. or lower'], item_name: Bindings of the Spiteful Djinn 
+counts: 1, second_count 8, second_price 258.37, second_price_without_taxe 224.67, price_item 220.47, second_profit 4.2 > 0.5 elif count_current_prices == 1: if second_count >= 2: if profit * 1.8 second
+[56.83, 1, '1 sell orders at 56,83 pσα. or lower'], [56.84, 2, '2 sell orders at 56,84 pσα. or lower'], [56.85, 3, '3 sell orders at 56,85 pσα. or lower'] item_name: Dendi Doll 
+counts: 1, second_count 1, third_price 56.85, third_price_without_taxe 49.43, price_item 48.24, profit 1.18 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[68.78, 3, '3 sell orders at 68,78 pσα. or lower'], [68.79, 4, '4 sell orders at 68,79 pσα. or lower'], item_name: Belt of the Jade General 
+second_price_without_taxe 59.82, price_item 57.77, profit 2.04 > 0.5 elif count_current_prices == 2: else first
+[62.68, 1, '1 sell orders at 62,68 pσα. or lower'], [62.69, 3, '3 sell orders at 62,69 pσα. or lower'], item_name: Cunning Cultivations 
+counts: 1, second_count 2, second_price 62.69, second_price_without_taxe 54.51, price_item 53.39, profit 1.11 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[106.39, 34, '34 sell orders at 106,39 pσα. or lower'], item_name: Blackshield Protodrone Armor 
+counts: 34, price 106.39, price_without_taxe 92.51, price_item 90.36, profit 2.15 > 0.5 if count_current_prices >= 3: first
+[62.51, 3, '3 sell orders at 62,51 pσα. or lower'], [62.65, 4, '4 sell orders at 62,65 pσα. or lower'], item_name: Cunning Cultivations 
+second_price_without_taxe 54.48, price_item 53.49, profit 0.87 > 0.5 elif count_current_prices == 2: else first
+[241, 1, '1 sell orders at 241 pσα. or lower'], [241.4, 2, '2 sell orders at 241,40 pσα. or lower'], [241.5, 3, '3 sell orders at 241,50 pσα. or lower'] item_name: Moonfall 
+counts: 1, second_count 1, third_price 241.5, third_price_without_taxe 210.0, price_item 206.4, profit 3.17 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[162.75, 1, '1 sell orders at 162,75 pσα. or lower'], [172.23, 2, '2 sell orders at 172,23 pσα. or lower'], [176.12, 3, '3 sell orders at 176,12 pσα. or lower'] item_name: StatTrak™ UMP-45 | Exposure 
+counts: 1, second_count 1, second_price 172.23, second_price_without_taxe 149.77, price_item 132.06, second_profit 17.71 > 0.5 elif count_current_prices == 1: elif second_count == 1: if profit * 1.8 second
+[214.6, 2, '2 sell orders at 214,60 pσα. or lower'], [214.61, 3, '3 sell orders at 214,61 pσα. or lower'], item_name: Iron Surge 
+second_price_without_taxe 186.62, price_item 183.4, profit 3.21 > 0.5 elif count_current_prices == 2: else first
+[167.9, 1, '1 sell orders at 167,90 pσα. or lower'], [169.91, 2, '2 sell orders at 169,91 pσα. or lower'], [169.94, 46, '46 sell orders at 169,94 pσα. or lower'] item_name: Lucentyr 
+counts: 1, second_count 1, second_price 169.91, second_price_without_taxe 147.75, price_item 145.28, second_profit 2.47 > 0.5 elif count_current_prices == 1: elif second_count == 1: if profit * 1.8 second
+[188.3, 2, '2 sell orders at 188,30 pσα. or lower'], [189.36, 20, '20 sell orders at 189,36 pσα. or lower'], item_name: AWP | Black Nile 
+second_price_without_taxe 164.66, price_item 159.62, profit 4.12 > 0.5 elif count_current_prices == 2: else first
+[139.5, 1, '1 sell orders at 139,50 pσα. or lower'], [139.58, 20, '20 sell orders at 139,58 pσα. or lower'], item_name: Resistive Pinfold 
+counts: 1, second_count 19, second_price 139.58, second_price_without_taxe 121.37, price_item 111.7, profit 9.6 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[56.3, 11, '11 sell orders at 56,30 pσα. or lower'], item_name: Edge of the Lost Order 
+counts: 10, price 56.3, price_without_taxe 48.96, price_item 48.0, profit 0.96 > 0.5 if count_current_prices >= 3: first
+[172.5, 2, '2 sell orders at 172,50 pσα. or lower'], [173.37, 3, '3 sell orders at 173,37 pσα. or lower'], item_name: Orb of Deliverance 
+second_price_without_taxe 150.76, price_item 147.08, profit 2.92 > 0.5 elif count_current_prices == 2: else first
+[160.8, 1, '1 sell orders at 160,80 pσα. or lower'], [160.81, 2, '2 sell orders at 160,81 pσα. or lower'], [163.15, 3, '3 sell orders at 163,15 pσα. or lower'] item_name: Mandate of the Stormborn 
+counts: 1, second_count 1, third_price 163.15, third_price_without_taxe 141.87, price_item 137.63, profit 2.2 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[57.15, 1, '1 sell orders at 57,15 pσα. or lower'], [57.3, 2, '2 sell orders at 57,30 pσα. or lower'], [57.41, 3, '3 sell orders at 57,41 pσα. or lower'] item_name: Taunt: Beautiful Snowangel 
+counts: 1, second_count 1, third_price 57.41, third_price_without_taxe 49.92, price_item 48.76, profit 0.94 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[136.99, 8, '8 sell orders at 136,99 pσα. or lower'], item_name: Bracers of the Cavern Luminar 
+counts: 8, price 136.99, price_without_taxe 119.12, price_item 116.33, profit 2.79 > 0.5 if count_current_prices >= 3: first
+[272.22, 2, '2 sell orders at 272,22 pσα. or lower'], [274.06, 3, '3 sell orders at 274,06 pσα. or lower'], [275.55, 4, '4 sell orders at 275,55 pσα. or lower'] item_name: Music Kit | bbno$, u mad! 
+counts: 1, second_count 1, third_price 275.55, third_price_without_taxe 239.61, price_item 233.83, profit 2.88 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[114.12, 22, '22 sell orders at 114,12 pσα. or lower'], item_name: Adoring Wingfall 
+counts: 22, price 114.12, price_without_taxe 99.23, price_item 94.9, profit 4.33 > 0.5 if count_current_prices >= 3: first
+[132.48, 1, '1 sell orders at 132,48 pσα. or lower'], [133.06, 2, '2 sell orders at 133,06 pσα. or lower'], [134.35, 3, '3 sell orders at 134,35 pσα. or lower'] item_name: Genuine Winterblight 
+counts: 1, second_count 1, third_price 134.35, third_price_without_taxe 116.83, price_item 111.1, profit 4.1 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[55.84, 1, '1 sell orders at 55,84 pσα. or lower'], [56, 2, '2 sell orders at 56 pσα. or lower'], [56.78, 4, '4 sell orders at 56,78 pσα. or lower'], item_name: Vengeance of the Brine Lords 
+counts: 1, second_count 1, third_price 56.78, third_price_without_taxe 49.37, price_item 48.27, profit_third 1.1 < 0.5 elif count_current_prices == 1: elif second_count == 1: else third
+[114, 3, '3 sell orders at 114 pσα. or lower'], [114.09, 4, '4 sell orders at 114,09 pσα. or lower'], item_name: Adoring Wingfall 
+second_price_without_taxe 99.21, price_item 95.16, profit 3.97 > 0.5 elif count_current_prices == 2: else first
+[137.32, 1, '1 sell orders at 137,32 pσα. or lower'], [137.93, 2, '2 sell orders at 137,93 pσα. or lower'], [138, 5, '5 sell orders at 138 pσα. or lower'] item_name: Taunt: Sharp Blade 
+counts: 1, second_count 1, third_price 138, third_price_without_taxe 120.0, price_item 116.35, profit 3.06 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[98.99, 1, '1 sell orders at 98,99 pσα. or lower'], [100.71, 122, '122 sell orders at 100,71 pσα. or lower'], item_name: StatTrak™ AWP | Capillary 
+counts: 1, second_count 121, second_price 100.71, second_price_without_taxe 87.57, price_item 84.67, second_profit 2.9 > 0.5 elif count_current_prices == 1: if second_count >= 2: if profit * 1.8 second
+[156.37, 3, '3 sell orders at 156,37 pσα. or lower'], item_name: Taunt: Foolish Gallantry 
+counts: 3, price 156.37, price_without_taxe 135.97, price_item 132.41, profit 3.56 > 0.5 if count_current_prices >= 3: first
+[136.9, 1, '1 sell orders at 136,90 pσα. or lower'], [137.19, 22, '22 sell orders at 137,19 pσα. or lower'], item_name: Resistive Pinfold 
+counts: 1, second_count 21, second_price 137.19, second_price_without_taxe 119.3, price_item 115.87, profit 3.17 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[80.79, 18, '18 sell orders at 80,79 pσα. or lower'], item_name: Profane Union 
+counts: 18, price 80.79, price_without_taxe 70.25, price_item 68.48, profit 1.77 > 0.5 if count_current_prices >= 3: first
+[103.5, 1, '1 sell orders at 103,50 pσα. or lower'], [103.85, 4, '4 sell orders at 103,85 pσα. or lower'], item_name: Symbol of the King Restored 
+counts: 1, second_count 3, second_price 103.85, second_price_without_taxe 90.3, price_item 88.1, profit 1.9 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[76.33, 1, '1 sell orders at 76,33 pσα. or lower'], [77, 3, '3 sell orders at 77 pσα. or lower'], item_name: Taunt: Ghostriding 
+counts: 1, second_count 2, second_price 77, second_price_without_taxe 66.96, price_item 64.52, profit 1.85 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[103.2, 2, '2 sell orders at 103,20 pσα. or lower'], [103.22, 3, '3 sell orders at 103,22 pσα. or lower'], [103.47, 4, '4 sell orders at 103,47 pσα. or lower'] item_name: Symbol of the King Restored 
+counts: 1, second_count 1, third_price 103.47, third_price_without_taxe 89.97, price_item 88.21, profit 1.53 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[80.79, 15, '15 sell orders at 80,79 pσα. or lower'], item_name: Profane Union 
+counts: 14, price 80.79, price_without_taxe 70.25, price_item 69.09, profit 1.16 > 0.5 if count_current_prices >= 3: first
+[223.41, 3, '3 sell orders at 223,41 pσα. or lower'], item_name: Taunt: Party On?  Party Off! 
+counts: 3, price 223.41, price_without_taxe 194.27, price_item 184.0, profit 10.27 > 0.5 if count_current_prices >= 3: first
+[167.99, 1, '1 sell orders at 167,99 pσα. or lower'], [169.94, 3, '3 sell orders at 169,94 pσα. or lower'], item_name: Offhand Basher of Mage Skulls 
+counts: 1, second_count 2, second_price 169.94, second_price_without_taxe 147.77, price_item 145.51, second_profit 2.26 > 0.5 elif count_current_prices == 1: if second_count >= 2: if profit * 1.8 second
+[107.01, 1, '1 sell orders at 107,01 pσα. or lower'], [107.1, 11, '11 sell orders at 107,10 pσα. or lower'], item_name: Stoneclaw Scavengers Radiant Towers 
+counts: 1, second_count 10, second_price 107.1, second_price_without_taxe 93.13, price_item 91.0, profit 2.05 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[209.31, 20, '20 sell orders at 209,31 pσα. or lower'], item_name: Sylvan Cascade 
+counts: 20, price 209.31, price_without_taxe 182.01, price_item 176.59, profit 5.42 > 0.5 if count_current_prices >= 3: first
+[56.26, 2, '2 sell orders at 56,26 pσα. or lower'], [57.41, 3, '3 sell orders at 57,41 pσα. or lower'], [57.5, 9, '9 sell orders at 57,50 pσα. or lower'], item_name: Taunt: Beautiful Snowangel 
+counts: 1, second_count 1, second_price 57.41, second_price_without_taxe 49.92, price_item 48.72, second_profit 1.2 < 0.5 elif count_current_prices == 1: elif second_count == 1: if profit >= 0.5 second
+[275.55, 2, '2 sell orders at 275,55 pσα. or lower'], [277.53, 5, '5 sell orders at 277,53 pσα. or lower'], item_name: Music Kit | bbno$, u mad! 
+second_price_without_taxe 241.33, price_item 233.72, profit 5.89 > 0.5 elif count_current_prices == 2: else first
+[253.97, 6, '6 sell orders at 253,97 pσα. or lower'], item_name: Fin King's Charm 
+counts: 6, price 253.97, price_without_taxe 220.84, price_item 217.42, profit 3.42 > 0.5 if count_current_prices >= 3: first
+[197.2, 1, '1 sell orders at 197,20 pσα. or lower'], [197.87, 2, '2 sell orders at 197,87 pσα. or lower'], [200.87, 3, '3 sell orders at 200,87 pσα. or lower'] item_name: Souvenir MP9 | Storm 
+counts: 1, second_count 1, third_price 200.87, third_price_without_taxe 174.67, price_item 168.77, profit 2.71 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[105.54, 2, '2 sell orders at 105,54 pσα. or lower'], [107.01, 3, '3 sell orders at 107,01 pσα. or lower'], [107.1, 4, '4 sell orders at 107,10 pσα. or lower'], item_name: Stoneclaw Scavengers Radiant Towers 
+counts: 1, second_count 1, second_price 107.01, second_price_without_taxe 93.05, price_item 91.55, second_profit 1.5 < 0.5 elif count_current_prices == 1: elif second_count == 1: if profit >= 0.5 second
+[219.32, 1, '1 sell orders at 219,32 pσα. or lower'], [220, 2, '2 sell orders at 220 pσα. or lower'], [220.47, 3, '3 sell orders at 220,47 pσα. or lower'] item_name: Taunt: Party On?  Party Off! 
+counts: 1, second_count 1, third_price 220.47, third_price_without_taxe 191.71, price_item 187.59, profit 3.12 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[189.52, 1, '1 sell orders at 189,52 pσα. or lower'], [189.95, 3, '3 sell orders at 189,95 pσα. or lower'], item_name: AWP | Black Nile 
+counts: 1, second_count 2, second_price 189.95, second_price_without_taxe 165.17, price_item 160.93, profit 3.87 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[60.4, 2, '2 sell orders at 60,40 pσα. or lower'], [60.45, 5, '5 sell orders at 60,45 pσα. or lower'], item_name: Blade of the Fractured Order 
+counts: 1, second_count 3, second_price 60.45, second_price_without_taxe 52.57, price_item 50.6, profit 1.92 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[72.81, 5, '5 sell orders at 72,81 pσα. or lower'], item_name: Tempest Revelation 
+counts: 4, price 72.81, price_without_taxe 63.31, price_item 61.0, profit 2.31 > 0.5 if count_current_prices >= 3: first
+[60, 1, '1 sell orders at 60 pσα. or lower'], [60.5, 2, '2 sell orders at 60,50 pσα. or lower'], [60.55, 6, '6 sell orders at 60,55 pσα. or lower'] item_name: Eye of the Lost Star 
+counts: 1, second_count 1, third_price 60.55, third_price_without_taxe 52.65, price_item 51.0, profit 1.17 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[172.56, 1, '1 sell orders at 172,56 pσα. or lower'], [174.25, 2, '2 sell orders at 174,25 pσα. or lower'], [175.78, 3, '3 sell orders at 175,78 pσα. or lower'], item_name: Hunger of the Howling Wilds Off-Hand Weapon 
+counts: 1, second_count 1, third_price 175.78, third_price_without_taxe 152.85, price_item 150.0, profit_third 2.85 < 0.5 elif count_current_prices == 1: elif second_count == 1: if profit >= 0.5 third
+[84.02, 2, '2 sell orders at 84,02 pσα. or lower'], [84.11, 3, '3 sell orders at 84,11 pσα. or lower'], item_name: Controlled Burn 
+second_price_without_taxe 73.14, price_item 70.31, profit 2.75 > 0.5 elif count_current_prices == 2: else first
+[137.32, 3, '3 sell orders at 137,32 pσα. or lower'], item_name: MP9 | Food Chain 
+counts: 3, price 137.32, price_without_taxe 119.41, price_item 116.0, profit 3.41 > 0.5 if count_current_prices >= 3: first
+[136.65, 1, '1 sell orders at 136,65 pσα. or lower'], [136.81, 2, '2 sell orders at 136,81 pσα. or lower'], [136.87, 12, '12 sell orders at 136,87 pσα. or lower'] item_name: Bracers of the Cavern Luminar 
+counts: 1, second_count 1, third_price 136.87, third_price_without_taxe 119.02, price_item 116.2, profit 2.63 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[257.83, 1, '1 sell orders at 257,83 pσα. or lower'], [258.19, 3, '3 sell orders at 258,19 pσα. or lower'], item_name: AWP | Black Nile 
+counts: 1, second_count 2, second_price 258.19, second_price_without_taxe 224.51, price_item 218.0, profit 6.2 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[56.3, 5, '5 sell orders at 56,30 pσα. or lower'], item_name: StatTrak™ Music Kit | Skog, III-Arena 
+counts: 5, price 56.3, price_without_taxe 48.96, price_item 47.88, profit 1.08 > 0.5 if count_current_prices >= 3: first
+[60.45, 3, '3 sell orders at 60,45 pσα. or lower'], item_name: Blade of the Fractured Order 
+counts: 3, price 60.45, price_without_taxe 52.57, price_item 51.0, profit 1.57 > 0.5 if count_current_prices >= 3: first
+[134.84, 1, '1 sell orders at 134,84 pσα. or lower'], [136.4, 2, '2 sell orders at 136,40 pσα. or lower'], [136.41, 3, '3 sell orders at 136,41 pσα. or lower'] item_name: Resistive Pinfold 
+counts: 1, second_count 1, second_price 136.4, second_price_without_taxe 118.61, price_item 116.7, second_profit 1.91 > 0.5 elif count_current_prices == 1: elif second_count == 1: if profit * 1.8 second
+[232.82, 1, '1 sell orders at 232,82 pσα. or lower'], [234.71, 2, '2 sell orders at 234,71 pσα. or lower'], [234.83, 4, '4 sell orders at 234,83 pσα. or lower'] item_name: Almond the Frondillo 
+counts: 1, second_count 1, third_price 234.83, third_price_without_taxe 204.2, price_item 199.47, profit 2.98 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[60.42, 2, '2 sell orders at 60,42 pσα. or lower'], [60.43, 3, '3 sell orders at 60,43 pσα. or lower'], [60.45, 6, '6 sell orders at 60,45 pσα. or lower'] item_name: Blade of the Fractured Order 
+counts: 1, second_count 1, third_price 60.45, third_price_without_taxe 52.57, price_item 51.0, profit 1.54 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[138, 2, '2 sell orders at 138 pσα. or lower'], [138.13, 3, '3 sell orders at 138,13 pσα. or lower'], item_name: Taunt: Sharp Blade 
+second_price_without_taxe 120.11, price_item 116.88, profit 3.12 > 0.5 elif count_current_prices == 2: else first
+[81.91, 1, '1 sell orders at 81,91 pσα. or lower'], [82.14, 18, '18 sell orders at 82,14 pσα. or lower'], item_name: StatTrak™ Galil AR | Destroyer 
+counts: 1, second_count 17, second_price 82.14, second_price_without_taxe 71.43, price_item 68.65, profit 2.58 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[57.47, 1, '1 sell orders at 57,47 pσα. or lower'], [57.5, 6, '6 sell orders at 57,50 pσα. or lower'], item_name: Taunt: Beautiful Snowangel 
+counts: 1, second_count 5, second_price 57.5, second_price_without_taxe 50.0, price_item 48.88, profit 1.09 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[128.57, 1, '1 sell orders at 128,57 pσα. or lower'], [130, 12, '12 sell orders at 130 pσα. or lower'], item_name: Transversant Soul 
+counts: 1, second_count 11, second_price 130, second_price_without_taxe 113.04, price_item 111.46, second_profit 1.58 < 0.5 elif count_current_prices == 1: if second_count >= 2: if profit >= 0.5 second
+[88.97, 2, '2 sell orders at 88,97 pσα. or lower'], [88.98, 3, '3 sell orders at 88,98 pσα. or lower'], item_name: Scourge of the Skyrangers Armor 
+second_price_without_taxe 77.37, price_item 75.99, profit 1.38 > 0.5 elif count_current_prices == 2: else first
+[175.87, 2, '2 sell orders at 175,87 pσα. or lower'], [175.89, 3, '3 sell orders at 175,89 pσα. or lower'], [176.23, 6, '6 sell orders at 176,23 pσα. or lower'] item_name: Hunger of the Howling Wilds Off-Hand Weapon 
+counts: 1, second_count 1, third_price 176.23, third_price_without_taxe 153.24, price_item 150.09, profit 2.84 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[83.08, 1, '1 sell orders at 83,08 pσα. or lower'], [83.09, 5, '5 sell orders at 83,09 pσα. or lower'], item_name: Wrap of the Shifting Sorcerer 
+counts: 1, second_count 4, second_price 83.09, second_price_without_taxe 72.25, price_item 70.58, profit 1.66 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[116.38, 5, '5 sell orders at 116,38 pσα. or lower'], item_name: Hellfire Insurgent Head 
+counts: 4, price 116.38, price_without_taxe 101.2, price_item 97.0, profit 4.2 > 0.5 if count_current_prices >= 3: first
+[232.69, 1, '1 sell orders at 232,69 pσα. or lower'], [232.82, 2, '2 sell orders at 232,82 pσα. or lower'], [234.71, 3, '3 sell orders at 234,71 pσα. or lower'] item_name: Almond the Frondillo 
+counts: 1, second_count 1, third_price 234.71, third_price_without_taxe 204.1, price_item 199.7, profit 2.64 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[216.35, 1, '1 sell orders at 216,35 pσα. or lower'], [217.67, 2, '2 sell orders at 217,67 pσα. or lower'], [217.75, 3, '3 sell orders at 217,75 pσα. or lower'] item_name: Genuine Hell's Usher 
+counts: 1, second_count 1, third_price 217.75, third_price_without_taxe 189.35, price_item 186.6, profit 1.53 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[82.49, 1, '1 sell orders at 82,49 pσα. or lower'], [82.87, 15, '15 sell orders at 82,87 pσα. or lower'], item_name: Hidden Vector - Armor 
+counts: 1, second_count 14, second_price 82.87, second_price_without_taxe 72.06, price_item 70.62, profit 1.11 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[73.25, 1, '1 sell orders at 73,25 pσα. or lower'], [73.4, 55, '55 sell orders at 73,40 pσα. or lower'], item_name: Music Kit | Meechy Darko, Gothic Luxury 
+counts: 1, second_count 54, second_price 73.4, second_price_without_taxe 63.83, price_item 60.83, profit 2.87 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[136, 2, '2 sell orders at 136 pσα. or lower'], [136.08, 3, '3 sell orders at 136,08 pσα. or lower'], item_name: Genuine Winterblight 
+second_price_without_taxe 118.33, price_item 112.43, profit 5.83 > 0.5 elif count_current_prices == 2: else first
+[160.44, 1, '1 sell orders at 160,44 pσα. or lower'], [161.5, 9, '9 sell orders at 161,50 pσα. or lower'], item_name: Mandate of the Stormborn 
+counts: 1, second_count 8, second_price 161.5, second_price_without_taxe 140.43, price_item 138.13, profit 1.38 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[129, 1, '1 sell orders at 129 pσα. or lower'], [130.2, 3, '3 sell orders at 130,20 pσα. or lower'], item_name: Inscribed Resistive Pinfold 
+counts: 1, second_count 2, second_price 130.2, second_price_without_taxe 113.22, price_item 111.0, second_profit 2.22 > 0.5 elif count_current_prices == 1: if second_count >= 2: if profit * 1.8 second
+[62.86, 33, '33 sell orders at 62,86 pσα. or lower'], item_name: Cunning Cultivations 
+counts: 33, price 62.86, price_without_taxe 54.66, price_item 53.43, profit 1.23 > 0.5 if count_current_prices >= 3: first
+[244.31, 2, '2 sell orders at 244,31 pσα. or lower'], [246.62, 6, '6 sell orders at 246,62 pσα. or lower'], item_name: Gimlek Decanter 
+second_price_without_taxe 214.45, price_item 211.14, profit 1.3 > 0.5 elif count_current_prices == 2: else first
+[204.66, 4, '4 sell orders at 204,66 pσα. or lower'], item_name: Hunger of the Howling Wilds Weapon 
+counts: 4, price 204.66, price_without_taxe 177.97, price_item 174.85, profit 3.12 > 0.5 if count_current_prices >= 3: first
+[234.54, 5, '5 sell orders at 234,54 pσα. or lower'], item_name: Almond the Frondillo 
+counts: 5, price 234.54, price_without_taxe 203.95, price_item 199.6, profit 4.35 > 0.5 if count_current_prices >= 3: first
+[59.45, 28, '28 sell orders at 59,45 pσα. or lower'], item_name: Dendi Doll 
+counts: 28, price 59.45, price_without_taxe 51.7, price_item 50.11, profit 1.59 > 0.5 if count_current_prices >= 3: first
+[234.54, 5, '5 sell orders at 234,54 pσα. or lower'], item_name: Almond the Frondillo 
+counts: 5, price 234.54, price_without_taxe 203.95, price_item 199.41, profit 4.54 > 0.5 if count_current_prices >= 3: first
+[66.2, 2, '2 sell orders at 66,20 pσα. or lower'], [66.37, 3, '3 sell orders at 66,37 pσα. or lower'], [66.5, 4, '4 sell orders at 66,50 pσα. or lower'] item_name: Armor of the Winged Sentinel 
+counts: 1, second_count 1, third_price 66.5, third_price_without_taxe 57.83, price_item 56.54, profit 1.03 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[66.18, 1, '1 sell orders at 66,18 pσα. or lower'], [66.2, 2, '2 sell orders at 66,20 pσα. or lower'], [66.37, 3, '3 sell orders at 66,37 pσα. or lower'] item_name: Armor of the Winged Sentinel 
+counts: 1, second_count 1, third_price 66.37, third_price_without_taxe 57.71, price_item 56.51, profit 1.04 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[72.99, 1, '1 sell orders at 72,99 pσα. or lower'], [73, 2, '2 sell orders at 73 pσα. or lower'], [73.23, 3, '3 sell orders at 73,23 pσα. or lower'] item_name: Spring Lineage Horns of Eternal Harvest 
+counts: 1, second_count 1, third_price 73.23, third_price_without_taxe 63.68, price_item 61.36, profit 2.11 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[125.84, 7, '7 sell orders at 125,84 pσα. or lower'], item_name: Daughters of Hydrophiinae 
+counts: 7, price 125.84, price_without_taxe 109.43, price_item 105.85, profit 3.58 > 0.5 if count_current_prices >= 3: first
+[79.12, 1, '1 sell orders at 79,12 pσα. or lower'], [80, 2, '2 sell orders at 80 pσα. or lower'], [80.3, 3, '3 sell orders at 80,30 pσα. or lower'] item_name: Slumbering Terror 
+counts: 1, second_count 1, second_price 80, second_price_without_taxe 69.57, price_item 68.08, second_profit 1.49 > 0.5 elif count_current_prices == 1: elif second_count == 1: if profit * 1.8 second
+[210.35, 8, '8 sell orders at 210,35 pσα. or lower'], item_name: Sylvan Cascade 
+counts: 8, price 210.35, price_without_taxe 182.91, price_item 178.8, profit 4.11 > 0.5 if count_current_prices >= 3: first
+[84.01, 3, '3 sell orders at 84,01 pσα. or lower'], [84.02, 4, '4 sell orders at 84,02 pσα. or lower'], [84.22, 5, '5 sell orders at 84,22 pσα. or lower'] item_name: Controlled Burn 
+counts: 1, second_count 1, third_price 84.22, third_price_without_taxe 73.23, price_item 70.4, profit 2.65 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[93, 1, '1 sell orders at 93 pσα. or lower'], [94.31, 2, '2 sell orders at 94,31 pσα. or lower'], [94.33, 3, '3 sell orders at 94,33 pσα. or lower'], item_name: Wings of Daybreak 
+counts: 1, second_count 1, second_price 94.31, second_price_without_taxe 82.01, price_item 80.84, second_profit 1.17 < 0.5 elif count_current_prices == 1: elif second_count == 1: if profit >= 0.5 second
+[62.69, 4, '4 sell orders at 62,69 pσα. or lower'], [62.83, 5, '5 sell orders at 62,83 pσα. or lower'], item_name: Cunning Cultivations 
+second_price_without_taxe 54.63, price_item 53.61, profit 0.9 > 0.5 elif count_current_prices == 2: else first
+[56.3, 1, '1 sell orders at 56,30 pσα. or lower'], [56.73, 6, '6 sell orders at 56,73 pσα. or lower'], item_name: StatTrak™ Music Kit | Skog, III-Arena 
+counts: 1, second_count 5, second_price 56.73, second_price_without_taxe 49.33, price_item 46.92, profit 2.04 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[136.41, 2, '2 sell orders at 136,41 pσα. or lower'], [137.97, 3, '3 sell orders at 137,97 pσα. or lower'], [138, 5, '5 sell orders at 138 pσα. or lower'] item_name: Genuine Winterblight 
+counts: 1, second_count 1, third_price 138, third_price_without_taxe 120.0, price_item 116.21, profit 2.41 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[242.8, 3, '3 sell orders at 242,80 pσα. or lower'], item_name: ''DING DING DIN MOTHER FUCKER !!!'' 
+counts: 3, price 242.8, price_without_taxe 211.13, price_item 207.77, profit 3.36 > 0.5 if count_current_prices >= 3: first
+[246.76, 1, '1 sell orders at 246,76 pσα. or lower'], [247.05, 2, '2 sell orders at 247,05 pσα. or lower'], [247.06, 3, '3 sell orders at 247,06 pσα. or lower'] item_name: Gimlek Decanter 
+counts: 1, second_count 1, third_price 247.06, third_price_without_taxe 214.83, price_item 211.14, profit 3.43 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[174.25, 3, '3 sell orders at 174,25 pσα. or lower'], item_name: ''Scythe of Rock4'' 
+counts: 3, price 174.25, price_without_taxe 151.52, price_item 148.0, profit 3.52 > 0.5 if count_current_prices >= 3: first
+[190.52, 1, '1 sell orders at 190,52 pσα. or lower'], [193.37, 4, '4 sell orders at 193,37 pσα. or lower'], item_name: Basher of Mage Skulls 
+counts: 1, second_count 3, second_price 193.37, second_price_without_taxe 168.15, price_item 165.1, second_profit 3.05 > 0.5 elif count_current_prices == 1: if second_count >= 2: if profit * 1.8 second
+[256.07, 1, '1 sell orders at 256,07 pσα. or lower'], [258.19, 2, '2 sell orders at 258,19 pσα. or lower'], [259.76, 3, '3 sell orders at 259,76 pσα. or lower'] item_name: Canals Pin 
+counts: 1, second_count 1, third_price 259.76, third_price_without_taxe 225.88, price_item 217.32, profit 5.35 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[125, 1, '1 sell orders at 125 pσα. or lower'], [126.08, 3, '3 sell orders at 126,08 pσα. or lower'], item_name: Daughters of Hydrophiinae 
+counts: 1, second_count 2, second_price 126.08, second_price_without_taxe 109.63, price_item 106.42, profit 2.28 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[193.5, 1, '1 sell orders at 193,50 pσα. or lower'], [193.6, 11, '11 sell orders at 193,60 pσα. or lower'], item_name: Basher of Mage Skulls 
+counts: 1, second_count 10, second_price 193.6, second_price_without_taxe 168.35, price_item 165.1, profit 3.16 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[254.67, 1, '1 sell orders at 254,67 pσα. or lower'], [256.05, 2, '2 sell orders at 256,05 pσα. or lower'], [257.28, 3, '3 sell orders at 257,28 pσα. or lower'] item_name: Canals Pin 
+counts: 1, second_count 1, third_price 257.28, third_price_without_taxe 223.72, price_item 217.14, profit 4.31 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[202.87, 2, '2 sell orders at 202,87 pσα. or lower'], [203, 3, '3 sell orders at 203 pσα. or lower'], item_name: The Spoils of Dezun 
+second_price_without_taxe 176.52, price_item 173.0, profit 3.41 > 0.5 elif count_current_prices == 2: else first
+[113.58, 17, '17 sell orders at 113,58 pσα. or lower'], item_name: Adoring Wingfall 
+counts: 17, price 113.58, price_without_taxe 98.77, price_item 95.25, profit 3.52 > 0.5 if count_current_prices >= 3: first
+[113.58, 17, '17 sell orders at 113,58 pσα. or lower'], item_name: Adoring Wingfall 
+counts: 17, price 113.58, price_without_taxe 98.77, price_item 95.25, profit 3.52 > 0.5 if count_current_prices >= 3: first
+[258.35, 1, '1 sell orders at 258,35 pσα. or lower'], [259.4, 2, '2 sell orders at 259,40 pσα. or lower'], [260.87, 3, '3 sell orders at 260,87 pσα. or lower'] item_name: Canals Pin 
+counts: 1, second_count 1, third_price 260.87, third_price_without_taxe 226.84, price_item 217.09, profit 7.56 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[78.63, 1, '1 sell orders at 78,63 pσα. or lower'], [79.08, 3, '3 sell orders at 79,08 pσα. or lower'], item_name: Wrath of Ka Cursor Pack 
+counts: 1, second_count 2, second_price 79.08, second_price_without_taxe 68.77, price_item 67.13, profit 1.24 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[174.39, 2, '2 sell orders at 174,39 pσα. or lower'], [176.25, 4, '4 sell orders at 176,25 pσα. or lower'], item_name: Genuine The Barb of Skadi 
+second_price_without_taxe 153.26, price_item 148.64, profit 3.0 > 0.5 elif count_current_prices == 2: else first
+[164.4, 1, '1 sell orders at 164,40 pσα. or lower'], [164.54, 2, '2 sell orders at 164,54 pσα. or lower'], [164.65, 3, '3 sell orders at 164,65 pσα. or lower'] item_name: Mandate of the Stormborn 
+counts: 1, second_count 1, third_price 164.65, third_price_without_taxe 143.17, price_item 140.0, profit 2.96 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[259.99, 1, '1 sell orders at 259,99 pσα. or lower'], [261.65, 2, '2 sell orders at 261,65 pσα. or lower'], [265.34, 4, '4 sell orders at 265,34 pσα. or lower'] item_name: AWP | PAW 
+counts: 1, second_count 1, third_price 265.34, third_price_without_taxe 230.73, price_item 224.8, profit_third 5.93 > 0.5 elif count_current_prices == 1: elif second_count == 1: if profit * 1.8 third
+[150, 2, '2 sell orders at 150 pσα. or lower'], [150.5, 3, '3 sell orders at 150,50 pσα. or lower'], item_name: Resistive Pinfold 
+second_price_without_taxe 130.87, price_item 128.29, profit 2.14 > 0.5 elif count_current_prices == 2: else first
+[73, 1, '1 sell orders at 73 pσα. or lower'], [73.71, 2, '2 sell orders at 73,71 pσα. or lower'], [74.72, 4, '4 sell orders at 74,72 pσα. or lower'] item_name: Belt of the Jade General 
+counts: 1, second_count 1, third_price 74.72, third_price_without_taxe 64.97, price_item 60.0, profit 3.48 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[72.39, 1, '1 sell orders at 72,39 pσα. or lower'], [73.26, 2, '2 sell orders at 73,26 pσα. or lower'], [73.48, 3, '3 sell orders at 73,48 pσα. or lower'] item_name: Music Kit | Meechy Darko, Gothic Luxury 
+counts: 1, second_count 1, second_price 73.26, second_price_without_taxe 63.7, price_item 62.05, second_profit 1.65 > 0.5 elif count_current_prices == 1: elif second_count == 1: if profit * 1.8 second
+[59.7, 14, '14 sell orders at 59,70 pσα. or lower'], item_name: Dendi Doll 
+counts: 14, price 59.7, price_without_taxe 51.91, price_item 50.0, profit 1.91 > 0.5 if count_current_prices >= 3: first
+[163.34, 1, '1 sell orders at 163,34 pσα. or lower'], [164.36, 5, '5 sell orders at 164,36 pσα. or lower'], item_name: Mandate of the Stormborn 
+counts: 1, second_count 4, second_price 164.36, second_price_without_taxe 142.92, price_item 140.0, profit 2.03 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[135.3, 1, '1 sell orders at 135,30 pσα. or lower'], [135.32, 37, '37 sell orders at 135,32 pσα. or lower'], item_name: Taunt: Skip to the Good Stuff! 
+counts: 1, second_count 36, second_price 135.32, second_price_without_taxe 117.67, price_item 114.17, profit 3.48 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[62.93, 1, '1 sell orders at 62,93 pσα. or lower'], [62.98, 4, '4 sell orders at 62,98 pσα. or lower'], item_name: Cunning Cultivations 
+counts: 1, second_count 3, second_price 62.98, second_price_without_taxe 54.77, price_item 53.55, profit 1.17 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[212.09, 1, '1 sell orders at 212,09 pσα. or lower'], [213.93, 2, '2 sell orders at 213,93 pσα. or lower'], [220.08, 12, '12 sell orders at 220,08 pσα. or lower'], item_name: Sylvan Cascade 
+counts: 1, second_count 1, third_price 220.08, third_price_without_taxe 191.37, price_item 184.31, profit_third 7.06 < 0.5 elif count_current_prices == 1: elif second_count == 1: if profit >= 0.5 third
+[78.69, 1, '1 sell orders at 78,69 pσα. or lower'], [78.72, 3, '3 sell orders at 78,72 pσα. or lower'], item_name: Taunt: Ghostriding 
+counts: 1, second_count 2, second_price 78.72, second_price_without_taxe 68.45, price_item 66.37, profit 2.06 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[82.8, 2, '2 sell orders at 82,80 pσα. or lower'], [83.17, 10, '10 sell orders at 83,17 pσα. or lower'], item_name: Wrap of the Shifting Sorcerer 
+counts: 1, second_count 8, second_price 83.17, second_price_without_taxe 72.32, price_item 69.58, profit 2.42 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[227.19, 1, '1 sell orders at 227,19 pσα. or lower'], [227.32, 2, '2 sell orders at 227,32 pσα. or lower'], [228.85, 3, '3 sell orders at 228,85 pσα. or lower'] item_name: Genuine Hell's Usher 
+counts: 1, second_count 1, third_price 228.85, third_price_without_taxe 199.0, price_item 190.0, profit 7.56 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[203.59, 4, '4 sell orders at 203,59 pσα. or lower'], item_name: The Spoils of Dezun 
+counts: 4, price 203.59, price_without_taxe 177.03, price_item 174.29, profit 2.74 > 0.5 if count_current_prices >= 3: first
+[261.56, 1, '1 sell orders at 261,56 pσα. or lower'], [263.69, 8, '8 sell orders at 263,69 pσα. or lower'], item_name: Canals Pin 
+counts: 1, second_count 7, second_price 263.69, second_price_without_taxe 229.3, price_item 219.2, profit 8.24 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[79.13, 1, '1 sell orders at 79,13 pσα. or lower'], [79.89, 12, '12 sell orders at 79,89 pσα. or lower'], item_name: Wrath of Ka Cursor Pack 
+counts: 1, second_count 11, second_price 79.89, second_price_without_taxe 69.47, price_item 67.17, profit 1.64 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[73.71, 13, '13 sell orders at 73,71 pσα. or lower'], item_name: Tempest Revelation 
+counts: 11, price 73.71, price_without_taxe 64.1, price_item 62.99, profit 1.11 > 0.5 if count_current_prices >= 3: first
+[56.44, 3, '3 sell orders at 56,44 pσα. or lower'], [56.46, 4, '4 sell orders at 56,46 pσα. or lower'], [56.59, 5, '5 sell orders at 56,59 pσα. or lower'] item_name: StatTrak™ Music Kit | Skog, III-Arena 
+counts: 1, second_count 1, third_price 56.59, third_price_without_taxe 49.21, price_item 47.31, profit 1.77 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[105.84, 3, '3 sell orders at 105,84 pσα. or lower'], [106.75, 5, '5 sell orders at 106,75 pσα. or lower'], item_name: Symbol of the King Restored 
+counts: 1, second_count 2, second_price 106.75, second_price_without_taxe 92.83, price_item 89.75, profit 2.28 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[65.09, 1, '1 sell orders at 65,09 pσα. or lower'], [65.12, 5, '5 sell orders at 65,12 pσα. or lower'], item_name: Staff of the Rambling Fatebender 
+counts: 1, second_count 4, second_price 65.12, second_price_without_taxe 56.63, price_item 55.6, profit 1.0 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[132.77, 1, '1 sell orders at 132,77 pσα. or lower'], [135.29, 2, '2 sell orders at 135,29 pσα. or lower'], [135.3, 3, '3 sell orders at 135,30 pσα. or lower'] item_name: Taunt: Skip to the Good Stuff! 
+counts: 1, second_count 1, second_price 135.29, second_price_without_taxe 117.64, price_item 114.57, second_profit 3.07 > 0.5 elif count_current_prices == 1: elif second_count == 1: if profit * 1.8 second
+[66.38, 1, '1 sell orders at 66,38 pσα. or lower'], [66.65, 4, '4 sell orders at 66,65 pσα. or lower'], item_name: Armor of the Winged Sentinel 
+counts: 1, second_count 3, second_price 66.65, second_price_without_taxe 57.96, price_item 56.67, profit 1.05 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[55.96, 2, '2 sell orders at 55,96 pσα. or lower'], [56.3, 3, '3 sell orders at 56,30 pσα. or lower'], [56.46, 7, '7 sell orders at 56,46 pσα. or lower'] item_name: M4A1-S | Mud-Spec 
+counts: 1, second_count 1, third_price 56.46, third_price_without_taxe 49.1, price_item 47.17, profit 1.49 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[113, 1, '1 sell orders at 113 pσα. or lower'], [113.94, 2, '2 sell orders at 113,94 pσα. or lower'], [114.86, 25, '25 sell orders at 114,86 pσα. or lower'] item_name: Adoring Wingfall 
+counts: 1, second_count 1, third_price 114.86, third_price_without_taxe 99.88, price_item 96.09, profit 2.17 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[96.6, 1, '1 sell orders at 96,60 pσα. or lower'], [97.75, 4, '4 sell orders at 97,75 pσα. or lower'], item_name: Wings of Daybreak 
+counts: 1, second_count 3, second_price 97.75, second_price_without_taxe 85.0, price_item 81.34, profit 2.66 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[100, 2, '2 sell orders at 100 pσα. or lower'], [100.05, 3, '3 sell orders at 100,05 pσα. or lower'], [100.39, 4, '4 sell orders at 100,39 pσα. or lower'] item_name: Mask of the Confidant 
+counts: 1, second_count 1, third_price 100.39, third_price_without_taxe 87.3, price_item 85.18, profit 1.78 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[56.46, 4, '4 sell orders at 56,46 pσα. or lower'], item_name: M4A1-S | Mud-Spec 
+counts: 4, price 56.46, price_without_taxe 49.1, price_item 47.32, profit 1.78 > 0.5 if count_current_prices >= 3: first
+[105.68, 1, '1 sell orders at 105,68 pσα. or lower'], [105.69, 2, '2 sell orders at 105,69 pσα. or lower'], [105.82, 3, '3 sell orders at 105,82 pσα. or lower'] item_name: Symbol of the King Restored 
+counts: 1, second_count 1, third_price 105.82, third_price_without_taxe 92.02, price_item 90.0, profit 1.9 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[219.92, 10, '10 sell orders at 219,92 pσα. or lower'], item_name: Sylvan Cascade 
+counts: 9, price 219.92, price_without_taxe 191.23, price_item 184.0, profit 7.23 > 0.5 if count_current_prices >= 3: first
+[100.32, 1, '1 sell orders at 100,32 pσα. or lower'], [102.61, 2, '2 sell orders at 102,61 pσα. or lower'], [102.74, 3, '3 sell orders at 102,74 pσα. or lower'] item_name: Galil AR | Firefight 
+counts: 1, second_count 1, second_price 102.61, second_price_without_taxe 89.23, price_item 84.93, second_profit 4.3 > 0.5 elif count_current_prices == 1: elif second_count == 1: if profit * 1.8 second
+[55.15, 3, '3 sell orders at 55,15 pσα. or lower'], [55.98, 4, '4 sell orders at 55,98 pσα. or lower'], item_name: M4A1-S | Mud-Spec 
+counts: 2, second_price 55.98, second_price_without_taxe 48.68, price_item 47.57, second_profit 1.11 < 0.5 elif count_current_prices == 2: if profit >= 0.9: second
+[110.4, 1, '1 sell orders at 110,40 pσα. or lower'], [110.77, 2, '2 sell orders at 110,77 pσα. or lower'], [111.1, 3, '3 sell orders at 111,10 pσα. or lower'] item_name: Blackshield Protodrone Armor 
+counts: 1, second_count 1, third_price 111.1, third_price_without_taxe 96.61, price_item 92.31, profit 3.69 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[64, 1, '1 sell orders at 64 pσα. or lower'], [64.17, 2, '2 sell orders at 64,17 pσα. or lower'], [64.2, 3, '3 sell orders at 64,20 pσα. or lower'] item_name: Eye of the Lost Star 
+counts: 1, second_count 1, third_price 64.2, third_price_without_taxe 55.83, price_item 52.49, profit 3.16 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[79.29, 2, '2 sell orders at 79,29 pσα. or lower'], [80.28, 4, '4 sell orders at 80,28 pσα. or lower'], item_name: Profane Union 
+counts: 1, second_count 2, second_price 80.28, second_price_without_taxe 69.81, price_item 68.6, second_profit 1.21 < 0.5 elif count_current_prices == 1: if second_count >= 2: if profit >= 0.5 second
+[75.86, 1, '1 sell orders at 75,86 pσα. or lower'], [75.93, 2, '2 sell orders at 75,93 pσα. or lower'], [75.99, 3, '3 sell orders at 75,99 pσα. or lower'] item_name: MAC-10 | Lapis Gator 
+counts: 1, second_count 1, third_price 75.99, third_price_without_taxe 66.08, price_item 63.3, profit 2.67 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[226.98, 1, '1 sell orders at 226,98 pσα. or lower'], [227.75, 7, '7 sell orders at 227,75 pσα. or lower'], item_name: Genuine Hell's Usher 
+counts: 1, second_count 6, second_price 227.75, second_price_without_taxe 198.04, price_item 190.33, profit 7.04 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[202.43, 1, '1 sell orders at 202,43 pσα. or lower'], [203.23, 2, '2 sell orders at 203,23 pσα. or lower'], [203.39, 3, '3 sell orders at 203,39 pσα. or lower'] item_name: The Spoils of Dezun 
+counts: 1, second_count 1, third_price 203.39, third_price_without_taxe 176.86, price_item 173.38, profit 2.65 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[110.4, 1, '1 sell orders at 110,40 pσα. or lower'], [110.94, 2, '2 sell orders at 110,94 pσα. or lower'], [111.38, 3, '3 sell orders at 111,38 pσα. or lower'] item_name: ''Cumstrukt'' 
+counts: 1, second_count 1, third_price 111.38, third_price_without_taxe 96.85, price_item 94.69, profit 1.31 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[143.75, 1, '1 sell orders at 143,75 pσα. or lower'], [143.86, 2, '2 sell orders at 143,86 pσα. or lower'], [147.09, 3, '3 sell orders at 147,09 pσα. or lower'] item_name: Severing Lash 
+counts: 1, second_count 1, third_price 147.09, third_price_without_taxe 127.9, price_item 119.32, profit 5.68 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[69.77, 3, '3 sell orders at 69,77 pσα. or lower'], item_name: Taunt: Fight Me! 
+counts: 3, price 69.77, price_without_taxe 60.67, price_item 58.72, profit 1.95 > 0.5 if count_current_prices >= 3: first
+[73.74, 1, '1 sell orders at 73,74 pσα. or lower'], [74, 2, '2 sell orders at 74 pσα. or lower'], [74.57, 3, '3 sell orders at 74,57 pσα. or lower'] item_name: M4A1-S | Emphorosaur-S 
+counts: 1, second_count 1, third_price 74.57, third_price_without_taxe 64.84, price_item 63.36, profit 0.76 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[165.86, 12, '12 sell orders at 165,86 pσα. or lower'], item_name: Tormented Staff 
+counts: 12, price 165.86, price_without_taxe 144.23, price_item 141.01, profit 3.22 > 0.5 if count_current_prices >= 3: first
+[96.94, 1, '1 sell orders at 96,94 pσα. or lower'], [99.67, 2, '2 sell orders at 99,67 pσα. or lower'], [99.87, 3, '3 sell orders at 99,87 pσα. or lower'] item_name: StatTrak™ MAC-10 | Light Box 
+counts: 1, second_count 1, second_price 99.67, second_price_without_taxe 86.67, price_item 83.1, second_profit 3.57 > 0.5 elif count_current_prices == 1: elif second_count == 1: if profit * 1.8 second
+[62.49, 4, '4 sell orders at 62,49 pσα. or lower'], [62.5, 12, '12 sell orders at 62,50 pσα. or lower'], item_name: StatTrak™ Music Kit | Beartooth, Aggressive 
+second_price_without_taxe 54.35, price_item 52.71, profit 1.63 > 0.5 elif count_current_prices == 2: else first
+[82.7, 1, '1 sell orders at 82,70 pσα. or lower'], [83.83, 3, '3 sell orders at 83,83 pσα. or lower'], item_name: Taunt: Ghostriding 
+counts: 1, second_count 2, second_price 83.83, second_price_without_taxe 72.9, price_item 69.64, profit 2.27 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[79.87, 1, '1 sell orders at 79,87 pσα. or lower'], [79.97, 5, '5 sell orders at 79,97 pσα. or lower'], item_name: Wrath of Ka Cursor Pack 
+counts: 1, second_count 4, second_price 79.97, second_price_without_taxe 69.54, price_item 67.29, profit 2.16 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[85.99, 1, '1 sell orders at 85,99 pσα. or lower'], [86.05, 2, '2 sell orders at 86,05 pσα. or lower'], [86.19, 4, '4 sell orders at 86,19 pσα. or lower'] item_name: Slumbering Terror 
+counts: 1, second_count 1, third_price 86.19, third_price_without_taxe 74.95, price_item 73.6, profit 1.17 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[165.14, 6, '6 sell orders at 165,14 pσα. or lower'], item_name: Resistive Pinfold 
+counts: 6, price 165.14, price_without_taxe 143.6, price_item 126.5, profit 17.1 > 0.5 if count_current_prices >= 3: first
+[56.32, 1, '1 sell orders at 56,32 pσα. or lower'], [57.5, 2, '2 sell orders at 57,50 pσα. or lower'], [57.52, 5, '5 sell orders at 57,52 pσα. or lower'] item_name: StatTrak™ Music Kit | Skog, III-Arena 
+counts: 1, second_count 1, second_price 57.5, second_price_without_taxe 50.0, price_item 48.0, second_profit 2.0 > 0.5 elif count_current_prices == 1: elif second_count == 1: if profit * 1.8 second
+[62.26, 1, '1 sell orders at 62,26 pσα. or lower'], [62.65, 2, '2 sell orders at 62,65 pσα. or lower'], [62.72, 4, '4 sell orders at 62,72 pσα. or lower'] item_name: Desert Eagle | Urban Rubble 
+counts: 1, second_count 1, third_price 62.72, third_price_without_taxe 54.54, price_item 52.36, profit 1.78 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[90.55, 1, '1 sell orders at 90,55 pσα. or lower'], [91.16, 2, '2 sell orders at 91,16 pσα. or lower'], [92, 3, '3 sell orders at 92 pσα. or lower'] item_name: Profane Union 
+counts: 1, second_count 1, third_price 92, third_price_without_taxe 80.0, price_item 75.0, profit 3.74 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[212, 1, '1 sell orders at 212 pσα. or lower'], [213.07, 3, '3 sell orders at 213,07 pσα. or lower'], item_name: StatTrak™ Desert Eagle | Trigger Discipline 
+counts: 1, second_count 2, second_price 213.07, second_price_without_taxe 185.28, price_item 177.0, profit 7.35 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[79.97, 3, '3 sell orders at 79,97 pσα. or lower'], item_name: Wrath of Ka Cursor Pack 
+counts: 3, price 79.97, price_without_taxe 69.54, price_item 67.19, profit 2.35 > 0.5 if count_current_prices >= 3: first
+[87.45, 2, '2 sell orders at 87,45 pσα. or lower'], [90, 4, '4 sell orders at 90 pσα. or lower'], item_name: Profane Union 
+second_price_without_taxe 78.26, price_item 74.0, profit 2.04 > 0.5 elif count_current_prices == 2: else first
+[80.45, 2, '2 sell orders at 80,45 pσα. or lower'], [80.47, 3, '3 sell orders at 80,47 pσα. or lower'], item_name: Wrath of Ka Cursor Pack 
+second_price_without_taxe 69.97, price_item 67.11, profit 2.85 > 0.5 elif count_current_prices == 2: else first
+[87.35, 2, '2 sell orders at 87,35 pσα. or lower'], [90, 3, '3 sell orders at 90 pσα. or lower'], [91.16, 4, '4 sell orders at 91,16 pσα. or lower'] item_name: Profane Union 
+counts: 1, second_count 1, second_price 90, second_price_without_taxe 78.26, price_item 74.2, second_profit 4.06 > 0.5 elif count_current_prices == 1: elif second_count == 1: if profit * 1.8 second
+[80.21, 2, '2 sell orders at 80,21 pσα. or lower'], [80.45, 12, '12 sell orders at 80,45 pσα. or lower'], item_name: Wrath of Ka Cursor Pack 
+second_price_without_taxe 69.96, price_item 67.4, profit 2.35 > 0.5 elif count_current_prices == 2: else first
+[316.32, 310, '310 sell orders at 316,32 pσα. or lower'], item_name: Sticker | Gold Web (Foil) 
+counts: 7, price 316.32, price_without_taxe 275.06, price_item 275.05, profit 0.01 < 0.5 if count_current_prices >= 3: first
+[316.32, 309, '309 sell orders at 316,32 pσα. or lower'], item_name: Sticker | Gold Web (Foil) 
+counts: 7, price 316.32, price_without_taxe 275.06, price_item 275.05, profit 0.01 < 0.5 if count_current_prices >= 3: first
+[21.32, 759, '759 sell orders at 21,32 pσα. or lower'], item_name: AWP | Capillary 
+counts: 9, price 21.32, price_without_taxe 18.54, price_item 18.53, profit 0.01 < 0.5 if count_current_prices >= 3: first
+[89.71, 3, '3 sell orders at 89,71 pσα. or lower'], [89.72, 4, '4 sell orders at 89,72 pσα. or lower'], [89.97, 16, '16 sell orders at 89,97 pσα. or lower'] item_name: Profane Union 
+counts: 1, second_count 1, third_price 89.97, third_price_without_taxe 78.23, price_item 75.0, profit 3.01 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[78.52, 1, '1 sell orders at 78,52 pσα. or lower'], [80.07, 2, '2 sell orders at 80,07 pσα. or lower'], [80.19, 3, '3 sell orders at 80,19 pσα. or lower'] item_name: Wrath of Ka Cursor Pack 
+counts: 1, second_count 1, second_price 80.07, second_price_without_taxe 69.63, price_item 67.4, second_profit 2.23 > 0.5 elif count_current_prices == 1: elif second_count == 1: if profit * 1.8 second
+[91.47, 1, '1 sell orders at 91,47 pσα. or lower'], [91.48, 2, '2 sell orders at 91,48 pσα. or lower'], [91.63, 9, '9 sell orders at 91,63 pσα. or lower'] item_name: Powdersled Rookery 
+counts: 1, second_count 1, third_price 91.63, third_price_without_taxe 79.68, price_item 78.31, profit 1.23 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[124.98, 2, '2 sell orders at 124,98 pσα. or lower'], [125.71, 11, '11 sell orders at 125,71 pσα. or lower'], item_name: MP7 | Abyssal Apparition 
+second_price_without_taxe 109.31, price_item 105.83, profit 2.85 > 0.5 elif count_current_prices == 2: else first
+[62.48, 6, '6 sell orders at 62,48 pσα. or lower'], item_name: Eye of the Lost Star 
+counts: 6, price 62.48, price_without_taxe 54.33, price_item 52.63, profit 1.7 > 0.5 if count_current_prices >= 3: first
+[111.38, 6, '6 sell orders at 111,38 pσα. or lower'], item_name: Blackshield Protodrone Armor 
+counts: 6, price 111.38, price_without_taxe 96.85, price_item 93.75, profit 3.1 > 0.5 if count_current_prices >= 3: first
+[89.71, 1, '1 sell orders at 89,71 pσα. or lower'], [89.72, 3, '3 sell orders at 89,72 pσα. or lower'], item_name: Profane Union 
+counts: 1, second_count 2, second_price 89.72, second_price_without_taxe 78.02, price_item 75.0, profit 3.01 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[210.93, 1, '1 sell orders at 210,93 pσα. or lower'], [210.95, 12, '12 sell orders at 210,95 pσα. or lower'], item_name: Orb of Deliverance 
+counts: 1, second_count 11, second_price 210.95, second_price_without_taxe 183.43, price_item 180.43, profit 2.99 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[79.62, 3, '3 sell orders at 79,62 pσα. or lower'], [79.63, 4, '4 sell orders at 79,63 pσα. or lower'], [79.65, 5, '5 sell orders at 79,65 pσα. or lower'] item_name: Large Frostmoot 
+counts: 1, second_count 1, third_price 79.65, third_price_without_taxe 69.26, price_item 67.3, profit 1.93 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[80.45, 8, '8 sell orders at 80,45 pσα. or lower'], item_name: Wrath of Ka Cursor Pack 
+counts: 8, price 80.45, price_without_taxe 69.96, price_item 67.58, profit 2.38 > 0.5 if count_current_prices >= 3: first
+[102.38, 1, '1 sell orders at 102,38 pσα. or lower'], [103.17, 2, '2 sell orders at 103,17 pσα. or lower'], [103.34, 3, '3 sell orders at 103,34 pσα. or lower'] item_name: MAC-10 | Light Box 
+counts: 1, second_count 1, third_price 103.34, third_price_without_taxe 89.86, price_item 87.81, profit 1.22 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[70.17, 2, '2 sell orders at 70,17 pσα. or lower'], [70.55, 3, '3 sell orders at 70,55 pσα. or lower'], item_name: Taunt: Fight Me! 
+second_price_without_taxe 61.35, price_item 59.14, profit 1.88 > 0.5 elif count_current_prices == 2: else first
+[193.21, 1, '1 sell orders at 193,21 pσα. or lower'], [199.23, 2, '2 sell orders at 199,23 pσα. or lower'], [199.95, 3, '3 sell orders at 199,95 pσα. or lower'], item_name: Basher of Mage Skulls 
+counts: 1, second_count 1, second_price 199.23, second_price_without_taxe 173.24, price_item 167.73, second_profit 5.51 < 0.5 elif count_current_prices == 1: elif second_count == 1: if profit >= 0.5 second
+[88.11, 3, '3 sell orders at 88,11 pσα. or lower'], [88.95, 23, '23 sell orders at 88,95 pσα. or lower'], item_name: Profane Union 
+second_price_without_taxe 77.35, price_item 76.03, profit 0.59 > 0.5 elif count_current_prices == 2: else first
+[212.94, 1, '1 sell orders at 212,94 pσα. or lower'], [213.32, 3, '3 sell orders at 213,32 pσα. or lower'], item_name: Hunger of the Howling Wilds Weapon 
+counts: 1, second_count 2, second_price 213.32, second_price_without_taxe 185.5, price_item 180.52, profit 4.65 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[209.04, 1, '1 sell orders at 209,04 pσα. or lower'], [211.19, 4, '4 sell orders at 211,19 pσα. or lower'], item_name: Orb of Deliverance 
+counts: 1, second_count 3, second_price 211.19, second_price_without_taxe 183.64, price_item 180.33, second_profit 3.31 > 0.5 elif count_current_prices == 1: if second_count >= 2: if profit * 1.8 second
+[77, 1, '1 sell orders at 77 pσα. or lower'], [77.67, 2, '2 sell orders at 77,67 pσα. or lower'], [78, 4, '4 sell orders at 78 pσα. or lower'] item_name: Music Kit | Meechy Darko, Gothic Luxury 
+counts: 1, second_count 1, third_price 78, third_price_without_taxe 67.83, price_item 63.94, profit 3.02 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[149.79, 1, '1 sell orders at 149,79 pσα. or lower'], [149.93, 4, '4 sell orders at 149,93 pσα. or lower'], item_name: StatTrak™ Dual Berettas | Hideout 
+counts: 1, second_count 3, second_price 149.93, second_price_without_taxe 130.37, price_item 123.31, profit 6.94 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
+[229.96, 1, '1 sell orders at 229,96 pσα. or lower'], [230, 2, '2 sell orders at 230 pσα. or lower'], [230.38, 3, '3 sell orders at 230,38 pσα. or lower'] item_name: Mask of the Forgotten Plane 
+counts: 1, second_count 1, third_price 230.38, third_price_without_taxe 200.33, price_item 194.71, profit 5.26 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[149.32, 2, '2 sell orders at 149,32 pσα. or lower'], [149.76, 3, '3 sell orders at 149,76 pσα. or lower'], [149.77, 4, '4 sell orders at 149,77 pσα. or lower'] item_name: StatTrak™ Dual Berettas | Hideout 
+counts: 1, second_count 1, third_price 149.77, third_price_without_taxe 130.23, price_item 123.31, profit 6.53 > 0.5 elif count_current_prices == 1: elif second_count == 1: else first
+[64, 2, '2 sell orders at 64 pσα. or lower'], [64.21, 3, '3 sell orders at 64,21 pσα. or lower'], item_name: StatTrak™ Music Kit | Beartooth, Aggressive 
+second_price_without_taxe 55.83, price_item 53.17, profit 2.48 > 0.5 elif count_current_prices == 2: else first
+[212.25, 22, '22 sell orders at 212,25 pσα. or lower'], item_name: Orb of Deliverance 
+counts: 22, price 212.25, price_without_taxe 184.57, price_item 180.52, profit 4.05 > 0.5 if count_current_prices >= 3: first
+[74.19, 1, '1 sell orders at 74,19 pσα. or lower'], [75.71, 2, '2 sell orders at 75,71 pσα. or lower'], [75.94, 3, '3 sell orders at 75,94 pσα. or lower'], item_name: Music Kit | Meechy Darko, Gothic Luxury 
+counts: 1, second_count 1, second_price 75.71, second_price_without_taxe 65.83, price_item 64.13, second_profit 1.7 < 0.5 elif count_current_prices == 1: elif second_count == 1: if profit >= 0.5 second
+[87.31, 1, '1 sell orders at 87,31 pσα. or lower'], [87.46, 39, '39 sell orders at 87,46 pσα. or lower'], item_name: StatTrak™ Glock-18 | Weasel 
+counts: 1, second_count 38, second_price 87.46, second_price_without_taxe 76.05, price_item 73.74, profit 2.18 > 0.5 elif count_current_prices == 1: if second_count >= 2: else first
